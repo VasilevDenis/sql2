@@ -17,7 +17,7 @@ INSERT INTO genres (title) VALUES
     ('Jazz');
 
 INSERT INTO albums (title, release_year) VALUES
-    ('Sgt. Pepper''s Lonely Hearts Club Band', 1967),
+    ('Sgt. Pepper''s Lonely Hearts Club Band', 2018),
     ('Dark Side of the Moon', 1973),
     ('Led Zeppelin IV', 1971),
     ('A Night at the Opera', 1975),
@@ -29,7 +29,7 @@ INSERT INTO albums (title, release_year) VALUES
 INSERT INTO tracks (title, duration, album_id) VALUES
     ('Lucy in the Sky with Diamonds', 203, 1),
     ('Another Brick in the Wall', 232, 2),
-    ('Stairway to Heaven', 482, 3),
+    ('Stairway to my Heaven', 482, 3),
     ('Bohemian Rhapsody', 354, 4),
     ('Brown Sugar', 228, 5),
     ('Starman', 258, 6),
@@ -45,8 +45,8 @@ INSERT INTO tracks (title, duration, album_id) VALUES
     ('Purple Haze', 167, 8);
 
 INSERT INTO collections (title, release_year) VALUES
-    ('Greatest Hits', 1988),
-    ('The Wall', 1979),
+    ('Greatest Hits', 2019),
+    ('The Wall', 2020),
     ('Physical Graffiti', 1975),
     ('Jazz Samba', 1962),
     ('Mingus Ah Um', 1959),
