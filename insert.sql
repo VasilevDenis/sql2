@@ -18,7 +18,7 @@ INSERT INTO genres (title) VALUES
 
 INSERT INTO albums (title, release_year) VALUES
     ('Sgt. Pepper''s Lonely Hearts Club Band', 2018),
-    ('Dark Side of the Moon', 1973),
+    ('Dark Side of the Moon', 2020),
     ('Led Zeppelin IV', 1971),
     ('A Night at the Opera', 1975),
     ('Sticky Fingers', 1971),
